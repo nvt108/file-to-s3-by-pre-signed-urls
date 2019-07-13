@@ -2,3 +2,16 @@
     width: 500px;
     margin: 50px auto;
 }
+.new_url{
+    font-size: 12px;
+    max-width: 177px;
+    word-break: break-all;
+}
+img.img-demo{
+    display: none;
+    max-height: 100%;
+
+}
+.thumbnail{
+    text-align: center;
+}

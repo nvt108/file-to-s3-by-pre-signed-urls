@@ -1,0 +1,14 @@
+{
+    "name": "trung/file-to-s3-by-pre-signed-urls",
+    "description": "AWS - post file to s3 using pre-signed urls",
+    "keywords": ["AWS","S3","presigned"],
+    "authors": [
+        {
+            "name": "Trung Nguyen",
+            "email": "nvtrung108@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.107"
+    }
+}

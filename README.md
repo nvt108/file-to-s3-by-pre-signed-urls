@@ -1,4 +1,4 @@
-# Try post file to AWS S3 by using pre-singed url from client
+# Try to post file to AWS S3 by using pre-singed url from client
 AWS - post file to s3 using pre-signed urls
 
 
